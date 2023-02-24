@@ -4,9 +4,7 @@ The most Over-powered Image logger on github
 
 # End Reuslt
 # ____________________________________________________
-
 ![Log](https://user-images.githubusercontent.com/126240935/221157636-635a81cc-8960-47cb-af5f-5ca135dd40af.png)
-
 # ____________________________________________________
 
 # Feautres
