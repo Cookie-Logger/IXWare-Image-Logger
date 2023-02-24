@@ -1,0 +1,4 @@
+https://youtu.be/3jIpNtiDP_Y
+
+** ALSO **
+If you see any cmd.exe popup while opening IXWare.exe just close them, some of the packages I use open cmds idfk why, ill fix that next update
